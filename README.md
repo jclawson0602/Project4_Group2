@@ -1,17 +1,18 @@
 # Project Overview
 
-Project Team:
+Using real estate data gathered from a public dataset on Kaggle, our group is trying to solve a major dilemma for the average home-buyer in Michigan. 
+
+**What will the features for upcoming houses for sale in Michigan look like?**
+
+In order to solve this dilemma, our team will create several machine learning models trained on the Kaggle dataset and use Root Mean Squared Error as our metric for determining the best model. thi will allow us to find the best model to use for predicting future home sale prices in Michigan based on the data we gathered.
+
+# Project Team
+
 - Selena Passeno
 - Cole O'Neill
 - Justin Clawson
 - Joel Fisher
 - Zac Williams
-
-Using real estate data gathered from a public dataset on Kaggle, our group is trying to solve a major dilemma for the average home-buyer in Michigan. 
-
-**What will the features for upcoming houses for sale in Michigan look like?**
-
-In order to solve this dilemma, our team will create several machine learning models trained on the Kaggle dataset and use Root Mean Squared Error as our metric for determining the best model. thi will allow us to find the best model to use for predicting future home sale prices in Michigan based on the data we gathered.  
 
 # Data Cleaning and Preparation
 
