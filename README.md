@@ -23,8 +23,9 @@ After preforming data cleaning, we were left with approximately 4300 records and
 # Models Used
 
 - Linear Regression
-- TWO Neural Networks.
-- and compared the Root Mean Squared Error 
+- TWO Neural Networks
+- Decision Trees
+- Random Forest
 
 # Results of Our Project
 
@@ -42,8 +43,10 @@ Model's Root Mean Squared Errors:
 - **michigan_homes.csv** : Project datasource gathered from Kaggle.
 - **Group2_Project4 v4 outline.pptx** : Project Powerpoint.
 - **LinearRegression (2).ipynb** : Notebook containing our Linear Regression machine learning model.
-- **Project_4_Neural_Network.ipynb** : Notebook containing our FIRST Neural Network machine learning model.
-- 
+- **Project_4_Neural_Network.ipynb** : Notebook containing our FIRST Neural Network machine learning model created by Justin.
+- **neural_network.ipynb** : Notebook containing our SECOND Neural Network machine learning model created by Joel.
+- **project4_decisiontrees.ipynb** : Notebook containing our Decision Trees machine learning model.
+- **project4_group2.ipynb** : Notebook containing our Random Forest machine learning model.
 
 
 
