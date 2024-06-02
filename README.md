@@ -30,11 +30,12 @@ After preforming data cleaning, we were left with approximately 4300 records and
 
 The results of our models showed that our FIRST Neural Network had the lowest Root Mean Squared Error which we consider to be the model that fits best with our home sales data. From our data gathering and cleaning along with our model fitting, training and testing, we are able to use our Neural Network to predict the cost of future prices for houses in Michigan.
 
-Multiple Linear RMSE = 119,239
-Random Forest RMSE = 282,347
-Decision Trees RMSE = 286,488
-Joel Neural Network RMSE = 111,012
-Justin’s Neural Network RMSE = 116,000
+Model's Root Mean Squared Errors:
+- Multiple Linear RMSE = 119,239
+- Random Forest RMSE = 282,347
+- Decision Trees RMSE = 286,488
+- Joel Neural Network RMSE = 111,012
+- Justin’s Neural Network RMSE = 116,000
 
 # Github Repository Documentation
 
