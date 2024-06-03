@@ -41,7 +41,7 @@ Model's Root Mean Squared Errors:
 # Github Repository Documentation
 
 - **michigan_homes.csv** : Project datasource gathered from Kaggle.
-- **Group2_Project4 v4 outline.pptx** : Project Powerpoint.
+- **group2_project4_FINAL.pptx** : Project Powerpoint.
 - **LinearRegression (2).ipynb** : Notebook containing our Linear Regression machine learning model.
 - **Project_4_Neural_Network.ipynb** : Notebook containing our FIRST Neural Network machine learning model created by Justin.
 - **neural_network.ipynb** : Notebook containing our SECOND Neural Network machine learning model created by Joel.
